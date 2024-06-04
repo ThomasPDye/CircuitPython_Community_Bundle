@@ -457,3 +457,6 @@
 [submodule "libraries/helpers/sampler"]
 	path = libraries/helpers/sampler
 	url = https://github.com/ThomasPDye/CircuitPython_Sampler.git
+[submodule "libraries/helpers/timetools"]
+	path = libraries/helpers/timetools
+	url = https://github.com/ThomasPDye/CircuitPython_TimeTools.git
